@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Created by: Kyanh Pham
+# Created by: maliksalem1
 # Created on: Oct 2022
 # This program uses loops in if statements
 #  and vice versa
